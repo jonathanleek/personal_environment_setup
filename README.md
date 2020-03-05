@@ -1,5 +1,6 @@
 #Setting up a new machine
-1. Upload followign files to home directory.
+Loosely based on https://amaral.northwestern.edu/resources/guides/setting-new-development-environment
+1. Upload following  files to home directory.
   .bashrc
   .bash_profile
   .bash_aliases
