@@ -1,0 +1,5 @@
+[user]
+	name = Jonathan Leek
+	email = 
+[core]
+	excludesfile = /home/jonathan/.gitignore_global
